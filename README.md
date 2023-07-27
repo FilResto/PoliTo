@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8AapHqUJ)
 # Exam #1: "CMSmall"
 ## Student: 319377 RESTORI FILIPPO 
@@ -523,3 +524,7 @@ This component is rendered everytime a unusual route is inserted in the url
 | user2@gmail.com       |  user2user2          |
 | user3@gmail.com       |  user3user3          |
 | user4@gmail.com       |  user4user4          |
+=======
+# PoliTo
+In this folder I will add all the projects related to my master's degree at Politecnico di Torino
+>>>>>>> 5ee29684c095005438820d53f96fc45a35ed6185
