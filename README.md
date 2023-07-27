@@ -36,7 +36,7 @@
 - Reponse: `200 OK` (success), `401 Unauthorized`(user is not logged in), `500 Internal Server Error` (generic error)
 - Response body:
 ```
-{
+{ 
   "id": 2,
   "username": "User2",
   "role": "user"
