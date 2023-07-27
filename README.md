@@ -1,7 +1,9 @@
 <<<<<<< HEAD
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8AapHqUJ)
-# Exam #1: "CMSmall"
-## Student: 319377 RESTORI FILIPPO 
+This is a WebApplication done is React. It is like a blog where people authenticated can publish pages and see other publiched pages.
+Non-authorized user can't create any page, they are able to see only published pages.
+After this brief introduction to the application, in the follwing sections you will find all the features of this project, starting from all the routes -> API -> purpose of each react component -> database model -> username and password of each registered user.
+
+In order to run the application, first, you have to open 2 terminals, the first one on the server (cd server) and the second one on the client (cd client), after this you have to write "npm i" on both of them. After this you are able to run the application by doing first on the server "nodemon index.js" and then on the client "npm run dev".
 
 ## React Client Application Routes
 
