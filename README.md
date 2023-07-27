@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a WebApplication done is React. It is like a blog where people authenticated can publish pages and see other publiched pages.
 Non-authorized user can't create any page, they are able to see only published pages.
 After this brief introduction to the application, in the follwing sections you will find all the features of this project, starting from all the routes -> API -> purpose of each react component -> database model -> username and password of each registered user.
